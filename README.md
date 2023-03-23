@@ -1,1 +1,1 @@
-# Pictures Plex Meta Manager will upload for posters
+Pictures Plex Meta Manager will upload for posters
